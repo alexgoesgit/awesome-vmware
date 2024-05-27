@@ -62,6 +62,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Nutanix AHV](https://www.nutanix.com/products/ahv) - HCI-optimized Hypervisor included with every Nutanix node [[docs](https://portal.nutanix.com/page/documents/list?type=software&filterKey=software&filterVal=AHV)]
 - [Scale Computing HyperCore](https://www.scalecomputing.com/sc-hypercore) - Type 1 (bare metal) hypervisor
 - [Softiron VM Squared](https://softiron.com/vmsquared/) - KVM-based hypervisor
+- [VergeOS](https://www.verge.io/) - VergeOS is an ultraconverged infrastructure (UCI) solution that integrates virtualization, storage, and networking into a single data center operating system. [[docs](https://wiki.verge.io/), [download](https://wiki.verge.io/public/implementation/2-3)]
 - [Virtuozzo Hybrid Server](https://www.virtuozzo.com/hybrid-server/) - Bare-metal virtualization solution that includes container virtualization, KVM-based virtual machines, software-defined storage. It runs on top of VzLinux, a RHEL-based Linux distribution. [[docs](https://docs.virtuozzo.com/master/index.html)]
 
 ## Xen Hypervisors
