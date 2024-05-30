@@ -51,8 +51,8 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [VMware vSphere](https://docs.vmware.com/en/VMware-vSphere/index.html) - VMwares virtualization platform.
   - [VMware Cloud Foundation](https://www.vmware.com/products/cloud-foundation.html) - vSphere Enterprise Plus, vSAN Enterprise, NSX Ent Plus (nur Netzwerk), Aria Suite Term Enterprise, Aria Ops for Networks ENT, HCX Enterprise, SDDC Manager, Tanzu Kubernetes Grid und vCenter Server Standard.
   - [VMware vSphere Foundation](https://www.vmware.com/products/vsphere-foundation.html) - vSphere Enterprise Plus, vCenter Standard, Tanzu Kubernetes Grid und Aria Suite Standard. 
-  - [VMware vSphere Standard](https://www.vmware.com)
-  - [VMware vSphere Essentials Plus](https://www.vmware.com)
+  - [VMware vSphere Standard](https://www.vmware.com) - All-in-one solution for small businesses (vSphere Essentials Plus and vCenter Essentials).
+  - [VMware vSphere Essentials Plus](https://www.vmware.com) - Server virtualization solution for data center consolidation and enhanced application availability (vSphere Hypervisor (ESXi) and vCenter Standard).
 
 ## KVM-based hypervisors
 
