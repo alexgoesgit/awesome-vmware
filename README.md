@@ -94,6 +94,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [OpenStack](https://www.openstack.org/) - Cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed and provisioned through APIs with common authentication mechanisms.
   - [OpenStack Marketplace](https://www.openstack.org/marketplace/distros/) - List of several openstack distros & appliances
 - [Triton DataCenter](https://www.tritondatacenter.com/) - Open source platform that offers unified management of containers and virtualization. [[docs](https://www.tritondatacenter.com/documentation), [downloads](https://www.tritondatacenter.com/downloads)]
+- [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
 - [Xen Orchestra](https://xen-orchestra.com/) - Management interface for XenServer/XCP-ng [[docs](https://xen-orchestra.com/docs/)]
   
 # Cloud
