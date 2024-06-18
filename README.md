@@ -21,8 +21,6 @@ The solutions listed here offer similar functions to VMware virtualization produ
   * [Cloud Management Alternatives](#cloud-management-alternatives)
 * [Cloud](#cloud)
   * [Managed VMware by Cloud Providers](#managed-vmware-by-cloud-providers)
-* [Related Tools](#related-tools)
-  * [Proxmox](#proxmox)
 * [Contributing](#contributing)
 * [License](#license)
   
@@ -105,14 +103,6 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/) - Managed VMware by Amazon.
 - [VMware on Azure](https://azure.microsoft.com/en-us/products/azure-vmware) - Managed VMware by Microsoft.
 - [Oracle Cloud VMware Solution](https://www.oracle.com/cloud/compute/vmware/) - VMware cloud environment based on VMware Cloud Foundation (VCF).
-
-
-# Related Tools
-
-## Proxmox
-
-- [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - Monitor  multiple Proxmox VE cluster in a single web portal.
-- [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server/overview) - Opensource Enterprise backup solution, for backing up and restoring VMs, containers, and physical hosts.
 
 # Contributing
 
