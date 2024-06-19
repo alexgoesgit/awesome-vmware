@@ -13,9 +13,9 @@ The solutions listed here offer similar functions to VMware virtualization produ
   * [Desktop Alternatives](#desktop-alternatives)
 * [Server](#server)
   * [VMware](#vmware-for-servers)
-  * [KVM-based hypervisors](#kvm-based-hypervisors)
+  * [KVM-based Hypervisors](#kvm-based)
   * [Xen Hypervisors](#xen-hypervisors)
-  * [Other hypervisors](#other-hypervisors)
+  * [Other Hypervisors](#other-hypervisors)
 * [Orchestration and Cloud Management solutions](#orchestration-and-cloud-management-solutions)
   * [VMware vCenter](#vmware-vcenter)
   * [Cloud Management Alternatives](#cloud-management-alternatives)
@@ -52,7 +52,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
   - [VMware vSphere Standard](https://www.vmware.com) - All-in-one solution for small businesses (vSphere Essentials Plus and vCenter Essentials).
   - [VMware vSphere Essentials Plus](https://www.vmware.com) - Server virtualization solution for data center consolidation and enhanced application availability (vSphere Hypervisor (ESXi) and vCenter Standard).
 
-## KVM-based hypervisors
+## KVM-based
 
 - [Harvester](https://harvesterhci.io/) - Hyperconverged infrastructure (HCI) solution built for bare metal servers usingopen-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. [[docs](https://docs.harvesterhci.io/)]
 - [Oracle Linux Virtualization Manager](https://www.oracle.com/uk/virtualization/#oracle-linux-kvm) - Open source KVM environment and oVirt-based management with support from Oracle. [[docs](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)]
@@ -60,6 +60,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Nutanix AHV](https://www.nutanix.com/products/ahv) - HCI-optimized Hypervisor included with every Nutanix node [[docs](https://portal.nutanix.com/page/documents/list?type=software&filterKey=software&filterVal=AHV)]
 - [Scale Computing HyperCore](https://www.scalecomputing.com/sc-hypercore) - Type 1 (bare metal) hypervisor
 - [Softiron VM Squared](https://softiron.com/vmsquared/) - KVM-based hypervisor
+- [StorMagic SvHCI](https://stormagic.com/svhci/) - Based on open-source Linux KVM/QEMU technology and Open vSwitch, with storage virtualization provided by SvSAN. [[docs](https://support.stormagic.com/hc/en-gb/sections/18777732563997-StorMagic-SvHCI)]
 - [VergeOS](https://www.verge.io/) - VergeOS is an ultraconverged infrastructure (UCI) solution that integrates virtualization, storage, and networking into a single data center operating system. [[docs](https://wiki.verge.io/), [download](https://wiki.verge.io/public/implementation/2-3)]
 - [Virtuozzo Hybrid Server](https://www.virtuozzo.com/hybrid-server/) - Bare-metal virtualization solution that includes container virtualization, KVM-based virtual machines, software-defined storage. It runs on top of VzLinux, a RHEL-based Linux distribution. [[docs](https://docs.virtuozzo.com/master/index.html)]
 
