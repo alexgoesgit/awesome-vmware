@@ -35,6 +35,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## Desktop Alternatives
 
+- [GNOME Boxes](https://github.com/ubuntu/gnome-boxes) - Application of the GNOME Desktop Environment, used to access virtual systems. Boxes uses the QEMU, KVM, and libvirt virtualization technologies.
 - [Parallels Desktop for Mac (Standard/Pro/Business Edition)](https://www.parallels.com/products/desktop/) - Run Windows on a Mac.
 - [Microsoft Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Lets you run multiple operating systems as virtual machines on Windows 10/11.
 - [Oracle VM VirtualBox (Enterprise)](https://www.oracle.com/virtualization/virtualbox/) - Popular open source, cross-platform, virtualization software.
