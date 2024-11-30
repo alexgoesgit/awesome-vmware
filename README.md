@@ -42,6 +42,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [UTM](https://mac.getutm.app/) - UTM is a full featured system emulator and virtual machine host for iOS and macOS. [[docs](https://docs.getutm.app/)]
 - [Virtualbox](https://www.virtualbox.org/) - General-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 - [Virtualbox with KVM Backend](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox (has to be build from source).
+- [VMTek](https://www.getvmtek.com/) - Mac virtualization platform. Run multiple instances and versions of macOS, Linux and other operating systems side-by-side on a Mac.
 
 # Server
 
