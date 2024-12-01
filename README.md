@@ -64,6 +64,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Scale Computing HyperCore](https://www.scalecomputing.com/sc-hypercore) - Type 1 (bare metal) hypervisor
 - [Softiron VM Squared](https://softiron.com/vmsquared/) - KVM-based hypervisor
 - [StorMagic SvHCI](https://stormagic.com/svhci/) - Based on open-source Linux KVM/QEMU technology and Open vSwitch, with storage virtualization provided by SvSAN. [[docs](https://support.stormagic.com/hc/en-gb/sections/18777732563997-StorMagic-SvHCI)]
+- [Ubuntu LXD](https://canonical.com/lxd) - Open-source solution for managing virtual machines and system containers. LXD provides both KVM-based VMs and system containers based on LXC.
 - [VergeOS](https://www.verge.io/) - VergeOS is an ultraconverged infrastructure (UCI) solution that integrates virtualization, storage, and networking into a single data center operating system. [[docs](https://wiki.verge.io/), [download](https://wiki.verge.io/public/implementation/2-3)]
 - [Virtuozzo Hybrid Server](https://www.virtuozzo.com/hybrid-server/) - Bare-metal virtualization solution that includes container virtualization, KVM-based virtual machines, software-defined storage. It runs on top of VzLinux, a RHEL-based Linux distribution. [[docs](https://docs.virtuozzo.com/master/index.html)]
 
