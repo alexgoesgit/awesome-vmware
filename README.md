@@ -61,6 +61,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Oracle Linux Virtualization Manager](https://www.oracle.com/uk/virtualization/#oracle-linux-kvm) - Open source KVM environment and oVirt-based management with support from Oracle. [[docs](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)]
 - [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview) - Open-source server management platform for virtualization. It integrates the KVM hypervisor and Linux Containers (LXC). [[docs](https://pve.proxmox.com/pve-docs/), [forum](https://forum.proxmox.com/), [endoflife.date](https://endoflife.date/proxmox-ve)]
 - [Nutanix AHV](https://www.nutanix.com/products/ahv) - HCI-optimized Hypervisor included with every Nutanix node [[docs](https://portal.nutanix.com/page/documents/list?type=software&filterKey=software&filterVal=AHV)]
+- [Nutanix Community Edition](https://www.nutanix.com/products/community-edition) - Free version of Nutanix AOS intended for internal business operations and non-production use only.
 - [Scale Computing HyperCore](https://www.scalecomputing.com/sc-hypercore) - Type 1 (bare metal) hypervisor
 - [Softiron VM Squared](https://softiron.com/vmsquared/) - KVM-based hypervisor
 - [StorMagic SvHCI](https://stormagic.com/svhci/) - Based on open-source Linux KVM/QEMU technology and Open vSwitch, with storage virtualization provided by SvSAN. [[docs](https://support.stormagic.com/hc/en-gb/sections/18777732563997-StorMagic-SvHCI)]
