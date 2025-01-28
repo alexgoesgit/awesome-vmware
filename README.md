@@ -108,6 +108,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## Managed VMware by Cloud Providers
 
+- [Google Cloud VMware Engine](https://cloud.google.com/vmware-engine) - VMware Engine is a fully managed service that lets you run the VMware platform in Google Cloud.
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/) - Managed VMware by Amazon.
 - [VMware on Azure](https://azure.microsoft.com/en-us/products/azure-vmware) - Managed VMware by Microsoft.
 - [Oracle Cloud VMware Solution](https://www.oracle.com/cloud/compute/vmware/) - VMware cloud environment based on VMware Cloud Foundation (VCF).
