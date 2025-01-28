@@ -58,6 +58,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 ## KVM-based
 
 - [Harvester](https://harvesterhci.io/) - Hyperconverged infrastructure (HCI) solution built for bare metal servers usingopen-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. [[docs](https://docs.harvesterhci.io/)]
+- [HPE VME hypervisor](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - KVM-based Hypervisor from HPE.
 - [Oracle Linux Virtualization Manager](https://www.oracle.com/uk/virtualization/#oracle-linux-kvm) - Open source KVM environment and oVirt-based management with support from Oracle. [[docs](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)]
 - [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview) - Open-source server management platform for virtualization. It integrates the KVM hypervisor and Linux Containers (LXC). [[docs](https://pve.proxmox.com/pve-docs/), [forum](https://forum.proxmox.com/), [endoflife.date](https://endoflife.date/proxmox-ve)]
 - [Nutanix AHV](https://www.nutanix.com/products/ahv) - HCI-optimized Hypervisor included with every Nutanix node [[docs](https://portal.nutanix.com/page/documents/list?type=software&filterKey=software&filterVal=AHV)]
@@ -94,6 +95,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 - [Apache CloudStack](https://cloudstack.apache.org/) - Open-source software system designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform. [[docs](http://docs.cloudstack.apache.org/en/latest/), [downloads](https://cloudstack.apache.org/downloads)]
 - [ManageIQ](https://www.manageiq.org/) - Open source management platform for Hybrid IT. It can manage small and large environments, and supports multiple technologies such as virtual machines, public clouds and containers. [[docs](https://www.manageiq.org/docs/), [downloads](https://www.manageiq.org/download/)]
+- [HPE VM Essentials](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - Virtualization management solutiion for HPE VME Hypervisor hosts and vCenter integration.
 - [OpenNebula](https://opennebula.io/) - Open Source Cloud Computing Platform to build and manage Enterprise Clouds. It supports multiple virtualization technologies, e.g. VMware, KVM and also LXC and Firecracker. [[docs](https://docs.opennebula.io/), [downloads](https://opennebula.io/use/#download_opennebula), [forum](https://forum.opennebula.io/)]
 - [OpenStack](https://www.openstack.org/) - Cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed and provisioned through APIs with common authentication mechanisms.
   - [OpenStack Marketplace](https://www.openstack.org/marketplace/distros/) - List of several openstack distros & appliances
