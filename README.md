@@ -11,6 +11,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 * [Workstation](#workstation)
   * [VMware on Desktops](#vmware-on-desktops)
   * [Desktop Alternatives](#desktop-alternatives)
+  * [CLI-based](#cli-based)
 * [Server](#server)
   * [VMware](#vmware-for-servers)
   * [KVM-based Hypervisors](#kvm-based)
@@ -42,8 +43,14 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [UTM](https://mac.getutm.app/) - UTM is a full featured system emulator and virtual machine host for iOS and macOS. [[docs](https://docs.getutm.app/)]
 - [Virtualbox](https://www.virtualbox.org/) - General-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 - [Virtualbox with KVM Backend](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox (has to be build from source).
+- [VirtualProg](https://makeprog.com/main/Products/VirtualProg/VirtualProg.aspx) - VirtualProg is a modern and easy-to-use virtual machine manager built exclusively for macOS using Apple’s Virtualization Framework.
 - [VMTek](https://www.getvmtek.com/) - Mac virtualization platform. Run multiple instances and versions of macOS, Linux and other operating systems side-by-side on a Mac.
 
+## CLI-based
+
+- [Multipass](https://canonical.com/multipass) - Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS and Windows.
+- [Lima: Linux Machines](https://lima-vm.io/) - Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2).
+   
 # Server
 
 ## VMware for Servers
