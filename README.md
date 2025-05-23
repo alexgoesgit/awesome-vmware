@@ -50,6 +50,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 - [Multipass](https://canonical.com/multipass) - Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS and Windows.
 - [Lima: Linux Machines](https://lima-vm.io/) - Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2).
+- [Tart](https://tart.run/) - A virtualization toolset to build, run and manage macOS and Linux virtual machines (VMs) on Apple Silicon.
    
 # Server
 
