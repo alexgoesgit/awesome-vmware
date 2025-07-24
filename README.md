@@ -65,6 +65,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## KVM-based
 
+- [Arcfra Virtualization Engine](https://www.arcfra.com/virtualization-engine/) - KVM-based virtualization for production environments, equipped with complete compute virtualization and VM life cycle management functionalities.
 - [Harvester](https://harvesterhci.io/) - Hyperconverged infrastructure (HCI) solution built for bare metal servers usingopen-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. [[docs](https://docs.harvesterhci.io/)]
 - [HPE VME hypervisor](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - KVM-based Hypervisor from HPE.
 - [Oracle Linux Virtualization Manager](https://www.oracle.com/uk/virtualization/#oracle-linux-kvm) - Open source KVM environment and oVirt-based management with support from Oracle. [[docs](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)]
@@ -102,6 +103,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 ## Cloud Management Alternatives
 
 - [Apache CloudStack](https://cloudstack.apache.org/) - Open-source software system designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform. [[docs](http://docs.cloudstack.apache.org/en/latest/), [downloads](https://cloudstack.apache.org/downloads)]
+- [Arcfra Enterprise Cloud Platform](https://www.arcfra.com/enterprise-cloud-platform/) - A software stack designed to help enterprises build modern infrastructure at any location and scale they prefer.
 - [ManageIQ](https://www.manageiq.org/) - Open source management platform for Hybrid IT. It can manage small and large environments, and supports multiple technologies such as virtual machines, public clouds and containers. [[docs](https://www.manageiq.org/docs/), [downloads](https://www.manageiq.org/download/)]
 - [HPE VM Essentials](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - Virtualization management solutiion for HPE VME Hypervisor hosts and vCenter integration.
 - [OpenNebula](https://opennebula.io/) - Open Source Cloud Computing Platform to build and manage Enterprise Clouds. It supports multiple virtualization technologies, e.g. VMware, KVM and also LXC and Firecracker. [[docs](https://docs.opennebula.io/), [downloads](https://opennebula.io/use/#download_opennebula), [forum](https://forum.opennebula.io/)]
