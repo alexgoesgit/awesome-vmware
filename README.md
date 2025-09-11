@@ -66,6 +66,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 ## KVM-based
 
 - [Arcfra Virtualization Engine](https://www.arcfra.com/virtualization-engine/) - KVM-based virtualization for production environments, equipped with complete compute virtualization and VM life cycle management functionalities.
+- [Cyberus Hypervisor](https://cyberus-technology.de/en/products/hypervisor): Open-Source Hypervisor based on _Linux/KVM_ and _Cloud Hypervisor_, suitable for cloud and edge appliances. All developments are upstreamed.
 - [Harvester](https://harvesterhci.io/) - Hyperconverged infrastructure (HCI) solution built for bare metal servers usingopen-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. [[docs](https://docs.harvesterhci.io/)]
 - [HPE VME hypervisor](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - KVM-based Hypervisor from HPE.
 - [Oracle Linux Virtualization Manager](https://www.oracle.com/uk/virtualization/#oracle-linux-kvm) - Open source KVM environment and oVirt-based management with support from Oracle. [[docs](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)]
