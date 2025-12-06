@@ -1,4 +1,4 @@
-# List of awesome VMware alternatives 
+MO# List of awesome VMware alternatives 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -93,6 +93,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Azure Stack HCI](https://azure.microsoft.com/en-us/products/azure-stack/hci) - Azure Stack HCI is a hyperconverged infrastructure solution that VMs or containers and their storage. [[docs](https://learn.microsoft.com/en-us/azure-stack/hci/)]
 - [BSD bhyve](https://bhyve.org/) - hypervisor/virtual machine manager available on FreeBSD and illumos. [[docs](https://wiki.freebsd.org/bhyve)]
 - [Canonical MicroCloud](https://canonical.com/microcloud) - Small-scale clouds optimised for repeatable and reliable remote deployments. [[docs](https://canonical-microcloud.readthedocs-hosted.com/en/latest/)]
+- [Karios Core](https://karios.ai/karios-core/) - Karios Core reimagines the infrastructure stack by fusing the best features of FreeBSD, Bhyve, and ZFS into a single, integrated hyperconverged platform designed for contemporary performance, security, and ease of use.
 - [Microsoft Windows Server Hyper-V](https://www.microsoft.com/en-us/windows-server) - The Hyper-V role in Windows Server lets you create a virtualized computing environment where you can create and manage virtual machine. [[docs](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview)]
 - [Triton SmartOS](https://www.tritondatacenter.com/smartos) - Converged Container and Virtual Machine Hypervisor [[downloads](https://docs.smartos.org/download-smartos/), [docs](https://docs.smartos.org/)]
 
