@@ -1,4 +1,4 @@
-MO# List of awesome VMware alternatives 
+# List of awesome VMware alternatives 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
