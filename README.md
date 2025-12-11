@@ -66,7 +66,8 @@ The solutions listed here offer similar functions to VMware virtualization produ
 ## KVM-based
 
 - [Arcfra Virtualization Engine](https://www.arcfra.com/virtualization-engine/) - KVM-based virtualization for production environments, equipped with complete compute virtualization and VM life cycle management functionalities.
-- [Cyberus Hypervisor](https://cyberus-technology.de/en/products/hypervisor): Open-Source Hypervisor based on _Linux/KVM_ and _Cloud Hypervisor_, suitable for cloud and edge appliances. All developments are upstreamed.
+- [Cyberus Hypervisor](https://cyberus-technology.de/en/products/hypervisor) - Open-Source Hypervisor based on _Linux/KVM_ and _Cloud Hypervisor_, suitable for cloud and edge appliances. All developments are upstreamed.
+- [euroNAS Enterprise Virtualization OS (eEVOS)](https://euronas.com/product/enterprise-virtualization-os-plus-en/) - Enterprise level OS for Server virtualization. Creation, backup and management of the virtual machines have never been more easy.
 - [Harvester](https://harvesterhci.io/) - Hyperconverged infrastructure (HCI) solution built for bare metal servers usingopen-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. [[docs](https://docs.harvesterhci.io/)]
 - [HPE VME hypervisor](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - KVM-based Hypervisor from HPE.
 - [Incus](https://linuxcontainers.org/incus/introduction/) - Incus is a container and virtual-machine manager. Based on LXC for containers and QEMU for virtual machines. [[docs](https://linuxcontainers.org/incus/docs/main/)]
