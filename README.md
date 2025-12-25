@@ -57,8 +57,8 @@ The solutions listed here offer similar functions to VMware virtualization produ
 ## VMware for Servers
 
 - [VMware vSphere](https://docs.vmware.com/en/VMware-vSphere/index.html) - VMwares virtualization platform.
-  - [VMware Cloud Foundation](https://www.vmware.com/products/cloud-foundation.html) - vSphere Enterprise Plus, vSAN Enterprise, NSX Ent Plus (nur Netzwerk), Aria Suite Term Enterprise, Aria Ops for Networks ENT, HCX Enterprise, SDDC Manager, Tanzu Kubernetes Grid und vCenter Server Standard.
-  - [VMware vSphere Foundation](https://www.vmware.com/products/vsphere-foundation.html) - vSphere Enterprise Plus, vCenter Standard, Tanzu Kubernetes Grid und Aria Suite Standard. 
+  - [VMware Cloud Foundation](https://www.vmware.com/products/cloud-foundation.html) - vSphere Enterprise Plus, vSAN Enterprise, NSX Ent Plus (Network only), Aria Suite Term Enterprise, Aria Ops for Networks ENT, HCX Enterprise, SDDC Manager, Tanzu Kubernetes Grid and vCenter Server Standard.
+  - [VMware vSphere Foundation](https://www.vmware.com/products/vsphere-foundation.html) - vSphere Enterprise Plus, vCenter Standard, Tanzu Kubernetes Grid and Aria Suite Standard. 
   - [VMware vSphere Essentials Plus](https://www.vmware.com) - Server virtualization solution for data center consolidation and enhanced application availability (vSphere Hypervisor (ESXi) and vCenter Standard).
   - [VMware vSphere Standard](https://www.vmware.com/products/cloud-infrastructure/vsphere) - All-in-one solution for small businesses (vSphere Essentials Plus and vCenter Essentials).
   - [VMware vSphere Enterprise Plus](https://www.vmware.com/products/cloud-infrastructure/vsphere) - ESX Enterprise Plus with vCenter Standard (basically without VSAN, Kubernetes and VCF Operations).  
@@ -75,12 +75,14 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview) - Open-source server management platform for virtualization. It integrates the KVM hypervisor and Linux Containers (LXC). [[docs](https://pve.proxmox.com/pve-docs/), [forum](https://forum.proxmox.com/), [endoflife.date](https://endoflife.date/proxmox-ve)]
 - [Nutanix AHV](https://www.nutanix.com/products/ahv) - HCI-optimized Hypervisor included with every Nutanix node [[docs](https://portal.nutanix.com/page/documents/list?type=software&filterKey=software&filterVal=AHV)]
 - [Nutanix Community Edition](https://www.nutanix.com/products/community-edition) - Free version of Nutanix AOS intended for internal business operations and non-production use only.
+- [Sangfor aSV](https://www.sangfor.com/cloud-and-infrastructure/products/asv-hypervisor-server-virtualization) - A next-generation hypervisor purpose-built for modern IT infrastructure. As the core virtualization engine powering Sangfor HCI, VDI, and Sangfor Cloud, aSV delivers a secure, high-performance, and reliable foundation for compute virtualization.
 - [Scale Computing HyperCore](https://www.scalecomputing.com/sc-hypercore) - Type 1 (bare metal) hypervisor
 - [Softiron VM Squared](https://softiron.com/vmsquared/) - KVM-based hypervisor
 - [StorMagic SvHCI](https://stormagic.com/svhci/) - Based on open-source Linux KVM/QEMU technology and Open vSwitch, with storage virtualization provided by SvSAN. [[docs](https://support.stormagic.com/hc/en-gb/sections/18777732563997-StorMagic-SvHCI)]
 - [Ubuntu LXD](https://canonical.com/lxd) - Open-source solution for managing virtual machines and system containers. LXD provides both KVM-based VMs and system containers based on LXC.
 - [VergeOS](https://www.verge.io/) - VergeOS is an ultraconverged infrastructure (UCI) solution that integrates virtualization, storage, and networking into a single data center operating system. [[docs](https://wiki.verge.io/), [download](https://wiki.verge.io/public/implementation/2-3)]
 - [Virtuozzo Hybrid Server](https://www.virtuozzo.com/hybrid-server/) - Bare-metal virtualization solution that includes container virtualization, KVM-based virtual machines, software-defined storage. It runs on top of VzLinux, a RHEL-based Linux distribution. [[docs](https://docs.virtuozzo.com/master/index.html)]
+- [ZStack ZSphere](https://www.zstack-cloud.com/product/private-cloud-platform/product-zsphere/) - Next-generation server virtualization software based on high performance, high security, high stability, and a strong focus on in-house development.
 
 ## Xen Hypervisors
 
