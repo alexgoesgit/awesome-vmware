@@ -36,6 +36,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## Desktop Alternatives
 
+- [Flint](https://github.com/ccheshirecat/flint) - A modern, self-contained KVM management tool built for developers, sysadmins, and home labs who want zero bloat and maximum efficiency.
 - [GNOME Boxes](https://github.com/ubuntu/gnome-boxes) - Application of the GNOME Desktop Environment, used to access virtual systems. Boxes uses the QEMU, KVM, and libvirt virtualization technologies.
 - [Parallels Desktop for Mac (Standard/Pro/Business Edition)](https://www.parallels.com/products/desktop/) - Run Windows, Linux, or macOS in virtual machines on a Mac.
 - [Microsoft Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Lets you run multiple operating systems as virtual machines on Windows 10/11.
