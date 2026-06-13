@@ -45,6 +45,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Virtualbox](https://www.virtualbox.org/) - General-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 - [Virtualbox with KVM Backend](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox (has to be build from source).
 - [VirtualProg](https://makeprog.com/main/Products/VirtualProg/VirtualProg.aspx) - VirtualProg is a modern and easy-to-use virtual machine manager built exclusively for macOS using Apple’s Virtualization Framework.
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4.
 - [VMTek](https://www.getvmtek.com/) - Mac virtualization platform. Run multiple instances and versions of macOS, Linux and other operating systems side-by-side on a Mac.
 
 ## CLI-based
@@ -68,7 +69,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 - [Arcfra Virtualization Engine](https://www.arcfra.com/virtualization-engine/) - KVM-based virtualization for production environments, equipped with complete compute virtualization and VM life cycle management functionalities.
 - [Cyberus Hypervisor](https://cyberus-technology.de/en/products/hypervisor) - Open-Source Hypervisor based on _Linux/KVM_ and _Cloud Hypervisor_, suitable for cloud and edge appliances. All developments are upstreamed.
-- [euroNAS Enterprise Virtualization OS (eEVOS)](https://euronas.com/product/enterprise-virtualization-os-plus-en/) - Enterprise level OS for Server virtualization. Creation, backup and management of the virtual machines have never been more easy.
+- [euroNAS Enterprise Virtualization OS (eEVOS)](https://www.euronas.com/eevos/) - Enterprise level OS for Server virtualization. Creation, backup and management of the virtual machines have never been more easy.
 - [Harvester](https://harvesterhci.io/) - Hyperconverged infrastructure (HCI) solution built for bare metal servers usingopen-source technologies including Linux, KVM, Kubernetes, KubeVirt, and Longhorn. [[docs](https://docs.harvesterhci.io/)]
 - [HPE VME hypervisor](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - KVM-based Hypervisor from HPE.
 - [Incus](https://linuxcontainers.org/incus/introduction/) - Incus is a container and virtual-machine manager. Based on LXC for containers and QEMU for virtual machines. [[docs](https://linuxcontainers.org/incus/docs/main/)]
