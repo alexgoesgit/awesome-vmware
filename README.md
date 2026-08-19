@@ -86,6 +86,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [VergeOS](https://www.verge.io/) - VergeOS is an ultraconverged infrastructure (UCI) solution that integrates virtualization, storage, and networking into a single data center operating system. [[docs](https://wiki.verge.io/), [download](https://wiki.verge.io/public/implementation/2-3)]
 - [Virtuozzo Hybrid Server](https://www.virtuozzo.com/hybrid-server/) - Bare-metal virtualization solution that includes container virtualization, KVM-based virtual machines, software-defined storage. It runs on top of VzLinux, a RHEL-based Linux distribution. [[docs](https://docs.virtuozzo.com/master/index.html)]
 - [ZStack ZSphere](https://www.zstack-cloud.com/product/private-cloud-platform/product-zsphere/) - Next-generation server virtualization software based on high performance, high security, high stability, and a strong focus on in-house development.
+- [ZSvirt](https://github.com/zsvirt/zsvirt) - Open-source virtualization platform built on ZStack's ZSphere virtualization engine. [[GitHub](https://github.com/zsvirt/zsvirt), [docs](https://zsvirt.io/docs)]
 
 ## Xen Hypervisors
 
