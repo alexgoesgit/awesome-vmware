@@ -20,6 +20,8 @@ The solutions listed here offer similar functions to VMware virtualization produ
 * [Orchestration and Cloud Management solutions](#orchestration-and-cloud-management-solutions)
   * [VMware vCenter](#vmware-vcenter)
   * [Cloud Management Alternatives](#cloud-management-alternatives)
+* [Migration](#migration)
+* [VDI](#vdi) 
 * [Cloud](#cloud)
   * [Managed VMware by Cloud Providers](#managed-vmware-by-cloud-providers)
 * [Contributing](#contributing)
@@ -40,7 +42,9 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Parallels Desktop for Mac (Standard/Pro/Business Edition)](https://www.parallels.com/products/desktop/) - Run Windows, Linux, or macOS in virtual machines on a Mac.
 - [Microsoft Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Lets you run multiple operating systems as virtual machines on Windows 10/11.
 - [Oracle VM VirtualBox (Enterprise)](https://www.oracle.com/virtualization/virtualbox/) - Popular open source, cross-platform, virtualization software.
+- [OrbStack](https://orbstack.dev/) - Fast Docker and Linux VM host for macOS, aimed at developers on Apple Silicon.
 - [UTM](https://mac.getutm.app/) - UTM is a full featured system emulator and virtual machine host for iOS and macOS. [[docs](https://docs.getutm.app/)]
+- [virt-manager](https://virt-manager.org/) - Desktop GUI for managing KVM and QEMU virtual machines through libvirt.
 - [Virtualbox](https://www.virtualbox.org/) - General-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 - [Virtualbox with KVM Backend](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox (has to be build from source).
 - [VirtualProg](https://makeprog.com/main/Products/VirtualProg/VirtualProg.aspx) - VirtualProg is a modern and easy-to-use virtual machine manager built exclusively for macOS using Apple’s Virtualization Framework.
@@ -49,8 +53,11 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## CLI-based
 
-- [Multipass](https://canonical.com/multipass) - Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS and Windows.
+- [libvirt](https://libvirt.org/) - Toolkit and API for managing KVM, QEMU, Xen and other hypervisors.
 - [Lima: Linux Machines](https://lima-vm.io/) - Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2).
+- [Multipass](https://canonical.com/multipass) - Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS and Windows.
+- [QEMU](https://www.qemu.org/) - Generic machine emulator and virtualizer. KVM, Proxmox VE, and many other platforms are built on it.
+- [Quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines.
 - [Tart](https://tart.run/) - A virtualization toolset to build, run and manage macOS and Linux virtual machines (VMs) on Apple Silicon.
    
 # Server
@@ -103,6 +110,11 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Microsoft Windows Server Hyper-V](https://www.microsoft.com/en-us/windows-server) - The Hyper-V role in Windows Server lets you create a virtualized computing environment where you can create and manage virtual machine. [[docs](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview)]
 - [Triton SmartOS](https://www.tritondatacenter.com/smartos) - Converged Container and Virtual Machine Hypervisor [[downloads](https://docs.smartos.org/download-smartos/), [docs](https://docs.smartos.org/)]
 
+## MicroVMs
+
+- [Cloud Hypervisor](https://www.cloudhypervisor.org/) - Rust VMM for modern cloud virtual machines, built on virtio and KVM or Microsoft Hypervisor.
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless and multi-tenant workloads, originally from AWS.
+
 ## Orchestration and Cloud Management solutions
 
 ## VMware vCenter
@@ -125,7 +137,25 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
 - [VMmanager](https://www.ispsystem.com/vmmanager) - Platform for virtualization management. The platform allows to manage multiple clusters, create virtual machines, install OS, and run scripts. [[docs](https://docs.ispsystem.com/vmmanager-admin)]
 - [Xen Orchestra](https://xen-orchestra.com/) - Management interface for XenServer/XCP-ng [[docs](https://xen-orchestra.com/docs/)]
-  
+
+# Migration
+
+- [Migrate to Proxmox VE](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE) - Official guide for moving VMs to Proxmox VE, including the built-in ESXi import wizard.
+- [Migration Toolkit for Virtualization](https://docs.redhat.com/en/documentation/migration_toolkit_for_virtualization) - Orchestrated migration from vSphere, oVirt, OpenStack, Hyper-V and OVA to OpenShift Virtualization.
+- [Nutanix Move](https://www.nutanix.com/products/move) - Official warm migration from VMware ESXi (and Hyper-V, AWS, Azure) to Nutanix AHV.
+- [OVF Tool](https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere-sdks-tools/9-0/ovf-tool-user-s-guide.html) - Official CLI to import and export OVF, OVA and vSphere virtual machines.
+- [StarWind V2V Converter](https://www.starwindsoftware.com/starwind-v2v-converter) - Free GUI and CLI converter across ESXi, Hyper-V, Proxmox, oVirt and VirtualBox.
+- [virt-v2v](https://www.libguestfs.org/virt-v2v.1.html) - Convert virtual machines from VMware, Xen and Hyper-V to run on KVM, including VirtIO driver injection.
+- [virtio-win](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/) - Windows VirtIO drivers required for disk, network and balloon devices after a VMware-to-KVM conversion.
+- [Xen Orchestra V2V](https://docs.xen-orchestra.com/xo5/v2v-migration-guide) - Warm migration from VMware ESXi to XCP-ng and the Vates stack.
+
+# VDI
+
+- [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop) - Microsoft’s cloud VDI and remote app service.
+- [Citrix DaaS](https://www.citrix.com/products/citrix-daas/) - Virtual apps and desktops, on-premises or as a service.
+- [Kasm Workspaces](https://www.kasmweb.com/) - Browser-based streaming of desktops and apps, including Proxmox VE as an autoscale provider.
+- [Omnissa Horizon](https://www.omnissa.com/) - Former VMware Horizon, now independent. Virtual desktops and apps for vSphere and other platforms.
+
 # Cloud
 
 ## Managed VMware by Cloud Providers
@@ -141,5 +171,4 @@ Contributing guidelines can be found [here](https://github.com/alexgoesgit/aweso
 
 # License
 
-This list is under the Creative Commons Attribution-ShareAlike 1.0 Generic License.
-Terms of the license are summarized [https://creativecommons.org/licenses/by-sa/1.0/](https://creativecommons.org/licenses/by-sa/1.0/).
+This list is under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
