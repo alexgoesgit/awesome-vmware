@@ -24,6 +24,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 * [VDI](#vdi) 
 * [Cloud](#cloud)
   * [Managed VMware by Cloud Providers](#managed-vmware-by-cloud-providers)
+* [On-premises private cloud](#on-premises-private-cloud) 
 * [Contributing](#contributing)
 * [License](#license)
   
@@ -103,7 +104,6 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## Other Hypervisors
 
-- [Azure Local](https://azure.microsoft.com/en-us/products/azure-stack/hci) - Azure Local (former name Azure Stack HCI) is a hyperconverged infrastructure solution that VMs or containers and their storage. [[docs](https://learn.microsoft.com/en-us/azure-stack/hci/)]
 - [BSD bhyve](https://bhyve.org/) - hypervisor/virtual machine manager available on FreeBSD and illumos. [[docs](https://wiki.freebsd.org/bhyve)]
 - [Canonical MicroCloud](https://canonical.com/microcloud) - Small-scale clouds optimised for repeatable and reliable remote deployments. [[docs](https://canonical-microcloud.readthedocs-hosted.com/en/latest/)]
 - [Karios Core](https://karios.ai/karios-core/) - Karios Core reimagines the infrastructure stack by fusing the best features of FreeBSD, Bhyve, and ZFS into a single, integrated hyperconverged platform designed for contemporary performance, security, and ease of use.
@@ -125,6 +125,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 - [Apache CloudStack](https://cloudstack.apache.org/) - Open-source software system designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform. [[docs](http://docs.cloudstack.apache.org/en/latest/), [downloads](https://cloudstack.apache.org/downloads)]
 - [Arcfra Enterprise Cloud Platform](https://www.arcfra.com/enterprise-cloud-platform/) - A software stack designed to help enterprises build modern infrastructure at any location and scale they prefer.
+- [c12n.cloud](https://cloudification.io/c12n-private-cloud/) - Fully automated, enterprise-ready open-source cloud platform built on OpenStack, Kubernetes, Ceph, and ArgoCD for sovereign IaaS.
 - [Cycle.io](https://cycle.io) - Private-cloud platform that orchestrates containers and VMs across bare metal and multi-cloud, with L2/L3 networking. [[docs](https://cycle.io/docs/platform/introduction-to-virtual-machines)]
 - [ManageIQ](https://www.manageiq.org/) - Open source management platform for Hybrid IT. It can manage small and large environments, and supports multiple technologies such as virtual machines, public clouds and containers. [[docs](https://www.manageiq.org/docs/), [downloads](https://www.manageiq.org/download/)]
 - [HPE VM Essentials](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - Virtualization management solutiion for HPE VME Hypervisor hosts and vCenter integration.
@@ -164,6 +165,14 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/) - Managed VMware by Amazon.
 - [VMware on Azure](https://azure.microsoft.com/en-us/products/azure-vmware) - Managed VMware by Microsoft.
 - [Oracle Cloud VMware Solution](https://www.oracle.com/cloud/compute/vmware/) - VMware cloud environment based on VMware Cloud Foundation (VCF).
+
+## On-premises private cloud
+
+- [AWS Outposts](https://aws.amazon.com/outposts/) - AWS compute, storage, and services on hardware in your datacenter or colocation site.
+- [Azure Local](https://azure.microsoft.com/en-us/products/azure-stack/hci) - Azure Local (former name Azure Stack HCI) is a hyperconverged infrastructure solution that VMs or containers and their storage. [[docs](https://learn.microsoft.com/en-us/azure-stack/hci/)]
+- [HPE GreenLake](https://www.hpe.com/us/en/greenlake.html) - Consumption-based private cloud and infrastructure in your datacenter.
+- [Lenovo TruScale](https://www.lenovo.com/us/en/servers-storage/truscale/) - Pay-as-you-go on-premises infrastructure and private cloud.
+- [OVHcloud Hosted Private Cloud](https://www.ovhcloud.com/en/hosted-private-cloud/) - Dedicated private cloud, including on-premises deployments (Nutanix-based).
 
 # Contributing
 
