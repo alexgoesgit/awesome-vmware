@@ -29,10 +29,9 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## VMware on Desktops
 
-- [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - Build and run Windows, Linux and BSD virtual machines on a Windows or Linux desktop.
-- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - Run multiple operating systems as virtual machines on your Windows or Linux desktop (Free for Personal Use).
-- [VMware Fusion Pro](https://www.vmware.com/products/fusion.html) - Run Windows, Linux, containers, Kubernetes and more in virtual machines (VMs) on MacOS.
-- [VMware Fusion Player](https://www.vmware.com/products/fusion.html) - Run Windows, Linux, containers, Kubernetes and more in virtual machines (VMs) on MacOS (Free for Personal Use).
+- [VMware Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Build and run Windows, Linux and BSD virtual machines on a Windows or Linux desktop. [[docs](https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/26H1.html)]
+- [VMware Fusion Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Run Windows, Linux, containers, Kubernetes and more in virtual machines (VMs) on MacOS. [[docs](https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html)]
+
 
 ## Desktop Alternatives
 
@@ -97,7 +96,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 ## Other Hypervisors
 
-- [Azure Stack HCI](https://azure.microsoft.com/en-us/products/azure-stack/hci) - Azure Stack HCI is a hyperconverged infrastructure solution that VMs or containers and their storage. [[docs](https://learn.microsoft.com/en-us/azure-stack/hci/)]
+- [Azure Local](https://azure.microsoft.com/en-us/products/azure-stack/hci) - Azure Local (former name Azure Stack HCI) is a hyperconverged infrastructure solution that VMs or containers and their storage. [[docs](https://learn.microsoft.com/en-us/azure-stack/hci/)]
 - [BSD bhyve](https://bhyve.org/) - hypervisor/virtual machine manager available on FreeBSD and illumos. [[docs](https://wiki.freebsd.org/bhyve)]
 - [Canonical MicroCloud](https://canonical.com/microcloud) - Small-scale clouds optimised for repeatable and reliable remote deployments. [[docs](https://canonical-microcloud.readthedocs-hosted.com/en/latest/)]
 - [Karios Core](https://karios.ai/karios-core/) - Karios Core reimagines the infrastructure stack by fusing the best features of FreeBSD, Bhyve, and ZFS into a single, integrated hyperconverged platform designed for contemporary performance, security, and ease of use.
@@ -138,7 +137,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 # Contributing
 
-Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-vmware/blob/main/Contributing.md).
+Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-vmware/blob/main/contributing.md).
 
 # License
 
