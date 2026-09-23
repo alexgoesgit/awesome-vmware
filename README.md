@@ -152,6 +152,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 
 # VDI
 
+- [abcdesktop.io](https://www.abcdesktop.io) - Free, open-source, Kubernetes-native VDI delivering remote browser and application isolation, accessible from any HTML5 browser.
 - [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop) - Microsoft’s cloud VDI and remote app service.
 - [Citrix DaaS](https://www.citrix.com/products/citrix-daas/) - Virtual apps and desktops, on-premises or as a service.
 - [Kasm Workspaces](https://www.kasmweb.com/) - Browser-based streaming of desktops and apps, including Proxmox VE as an autoscale provider.
