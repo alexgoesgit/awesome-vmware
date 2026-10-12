@@ -1,8 +1,12 @@
 # List of awesome VMware alternatives 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> A list of virtualization software and solutions as a starting point for replacing VMware products.
 
-> A list of virtualization software and solutions as a starting point for replacing VMware products. 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![GitHub License](https://img.shields.io/github/license/alexgoesgit/awesome-vmware)](https://github.com/alexgoesgit/awesome-vmware/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/alexgoesgit/awesome-vmware)](https://github.com/alexgoesgit/awesome-vmware/commits/main)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-vmware/issues)
+[![Stars](https://img.shields.io/github/stars/alexgoesgit/awesome-vmware?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-vmware)
 
 The solutions listed here offer similar functions to VMware virtualization products. Whether they are really suitable as an alternative depends heavily on individual requirements.
 
