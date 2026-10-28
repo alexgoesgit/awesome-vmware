@@ -133,6 +133,7 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Apache CloudStack](https://cloudstack.apache.org/) - Open-source software system designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform. [[docs](http://docs.cloudstack.apache.org/en/latest/), [downloads](https://cloudstack.apache.org/downloads)]
 - [Arcfra Enterprise Cloud Platform](https://www.arcfra.com/enterprise-cloud-platform/) - A software stack designed to help enterprises build modern infrastructure at any location and scale they prefer.
 - [c12n.cloud](https://cloudification.io/c12n-private-cloud/) - Fully automated, enterprise-ready open-source cloud platform built on OpenStack, Kubernetes, Ceph, and ArgoCD for sovereign IaaS.
+- [Cloudmox](https://www.cloudmox.eu/) - A Proxmox add on that is a Web based multi-tenant control panel. Proxmox manages the clusters (settings like HA, DRS, Storage, networking), Cloudmox manages all the access, limits, white labelling, billing, tenants, users and security. It allows tenants, users and user groups to create and control VMs and prevent misconfigurations. 
 - [Cycle.io](https://cycle.io) - Private-cloud platform that orchestrates containers and VMs across bare metal and multi-cloud, with L2/L3 networking. [[docs](https://cycle.io/docs/platform/introduction-to-virtual-machines)]
 - [ManageIQ](https://www.manageiq.org/) - Open source management platform for Hybrid IT. It can manage small and large environments, and supports multiple technologies such as virtual machines, public clouds and containers. [[docs](https://www.manageiq.org/docs/), [downloads](https://www.manageiq.org/download/)]
 - [HPE VM Essentials](https://www.hpe.com/emea_europe/en/hpe-vm-essentials.html) - Virtualization management solutiion for HPE VME Hypervisor hosts and vCenter integration.
@@ -147,7 +148,6 @@ The solutions listed here offer similar functions to VMware virtualization produ
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
 - [VMmanager](https://www.ispsystem.com/vmmanager) - Platform for virtualization management. The platform allows to manage multiple clusters, create virtual machines, install OS, and run scripts. [[docs](https://docs.ispsystem.com/vmmanager-admin)]
 - [Xen Orchestra](https://xen-orchestra.com/) - Management interface for XenServer/XCP-ng [[docs](https://xen-orchestra.com/docs/)]
-- [Cloudmox](https://www.cloudmox.eu/) - A Proxmox add on that is a Web based multi-tenant control panel. Proxmox manages the clusters (settings like HA, DRS, Storage, networking), Cloudmox manages all the access, limits, white labelling, billing, tenants, users and security. It allows tenants, users and user groups to create and control VMs and prevent misconfigurations. 
 
 # Migration
 
